@@ -21,7 +21,7 @@ O objetivo é comparar a performance de algoritmos com diferentes complexidades 
 
 ## 🧪 Metodologia Experimental
 
-### 1. Cenários e Tamanhos (N)
+###  Cenários e Tamanhos (N)
 
 Os algoritmos foram testados em três cenários principais para vetores de 10.000 a 50.000 elementos:
 
@@ -31,7 +31,7 @@ Os algoritmos foram testados em três cenários principais para vetores de 10.00
 | **Inversamente Ordenado** | Pior Caso para a maioria dos algoritmos (Ex: Quick Sort). |
 | **Quase Ordenado** | Melhor Caso para algoritmos adaptativos (Ex: Insertion Sort). |
 
-### 2. Métricas Coletadas
+###  Métricas Coletadas
 
 As seguintes métricas foram coletadas para cada execução:
 
